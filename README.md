@@ -1,4 +1,4 @@
-[Check out my Blog on SageMaker!](#https://sameemblogs.hashnode.dev/building-and-deploying-machine-learning-models-with-aws-sagemaker)
+[Check out my Blog on SageMaker!](https://sameemblogs.hashnode.dev/building-and-deploying-machine-learning-models-with-aws-sagemaker)
 # Sagemaker
 This README provides an overview of the process for training, building, and deploying machine learning models using Amazon SageMaker on AWS. Amazon SageMaker is a fully managed machine learning service that makes it easy to build, train, and deploy ML models.
 # AWS SageMaker Training, Building, and Deployment
